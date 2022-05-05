@@ -1,2 +1,1 @@
-# Notebooks
-This repository contains notebook of NLP, CV and ML  
+This repository contains notebook of my learning on NLP, CV and ML. 
